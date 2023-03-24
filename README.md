@@ -1,5 +1,5 @@
 # Starbucks_Scraping
-Scrape menu of beverages and images
+Scraped menu of beverages and images on the Starbucks Website
 
 TO-Do List
 * Get names of beverages
